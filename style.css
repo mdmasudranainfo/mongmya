@@ -40,3 +40,28 @@ img{
     background-color: tomato;
     color: black;
 }
+
+/* Futar  */
+.boxWraper{
+    background-color: blanchedalmond;
+    display: block;
+    overflow: hidden;
+  
+  
+}
+.box{
+    width: 30%;
+    float: left;
+   box-sizing: border-box;
+   margin: 5px;
+   
+
+}
+.box a{
+    text-decoration: none;
+    color: red;
+    text-transform: uppercase;
+}
+.box h2{
+    color: green;
+}
