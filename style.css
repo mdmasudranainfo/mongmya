@@ -61,7 +61,19 @@ img{
     text-decoration: none;
     color: red;
     text-transform: uppercase;
+    display: block;
+    margin: 0 0;
+    width: 50%;
+   
+    
+   
+}
+
+.box a:hover{
+    background-color: grey;
+    color: white;
 }
 .box h2{
     color: green;
+    padding-bottom: 10px;
 }
