@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.conteiner{
+    width: 960px;
+    margin: auto;
+}
+img{
+    max-width: 100%;
+}
+.navbar{
+    overflow: hidden;
+    background-color: aquamarine;
+}
+.logo{
+    width: 10%;
+    float: left;
+}
+.mainnemu{
+    width: 90%;
+    float: right;
+}
+.mainnemu ul{
+    list-style: none;
+}
+.mainnemu ul li{
+    float: left;
+}
+.mainnemu ul li a{
+    display: block;
+    padding: 20px 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+.mainnemu ul li a:hover{
+    background-color: tomato;
+    color: black;
+}
